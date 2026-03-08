@@ -1,0 +1,18 @@
+# Core data processing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Visualization (for notebooks)
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Jupyter support
+notebook
+ipykernel
+
+# Optional: Advanced ML (uncomment if needed)
+# xgboost>=1.7.0
+# lightgbm>=3.3.0
